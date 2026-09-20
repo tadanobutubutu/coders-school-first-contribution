@@ -95,7 +95,7 @@ Otwórz plik `Contributors.md` w edytorze tekstu. Jest on zapisany w Markdown, l
 Dodaj następującą linię na końcu `Contributors.md`
 
 ```md
-- [Twój nick z Discorda](https://github.com/Twoja_nazwa_użytkownika)
+- [Twój nick z platformy](https://github.com/Twoja_nazwa_użytkownika)
 ```
 
 Przykład:
